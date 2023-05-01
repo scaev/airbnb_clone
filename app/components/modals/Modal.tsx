@@ -164,8 +164,7 @@ const Modal: React.FC<ModalProps> = ({
                     w-full
                   "
                 >
-                  <Button />
-                  <Button />
+                  <Button label="My Button" />
                 </div>
                 {footer}
               </div>
