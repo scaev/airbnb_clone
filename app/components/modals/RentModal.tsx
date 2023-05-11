@@ -6,6 +6,7 @@ import Modal from "./Modal";
 import { useMemo, useState } from "react";
 import Heading from "../Heading";
 import { categories } from "../navbar/Categories";
+import CategoryInput from "../inputs/CategoryInput";
 
 enum STEPS {
   CATEGORY = 0,
