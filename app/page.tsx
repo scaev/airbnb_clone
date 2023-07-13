@@ -5,8 +5,7 @@ import Container from "./components/Container";
 import EmptyState from "./components/EmptyState";
 import ListingCard from "./components/listings/ListingCard";
 
-//I guess the reason is we static build app on vercel means the page was statically rendered, so searchParams no longer works, have to use force-dynamic
-export const dynamic = "force-static";
+export const dynamic = "force-dynamic";
 
 interface HomeProps {
   searchParams: IListingsParams;
