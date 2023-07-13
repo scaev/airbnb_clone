@@ -21,6 +21,8 @@ const Home = async ({ searchParams }: HomeProps) => {
     );
   }
 
+// throw new Error ('Testing..')
+
   return (
     <ClientOnly>
       <Container>
