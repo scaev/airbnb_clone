@@ -30,7 +30,7 @@ Whether you're a traveler in search of a cozy home away from home or a host aimi
 ### Check this cool app out via [link 👈](https://colive.vercel.app/)
 
 </br>
-<img src="https://i.imgur.com/c5mIrf9.png" alt="Image" width="550" height="550">
+<img src="https://i.imgur.com/c5mIrf9.png" alt="Image" width="800" height="550">
 </br>
 
 ## Instructions
@@ -49,13 +49,13 @@ Whether you're a traveler in search of a cozy home away from home or a host aimi
 <img src="https://i.imgur.com/g4Mssvx.png" alt="Logo" width="800" height="600">
 </br>
 </br>
-<img src="https://i.imgur.com/70fytVU.png" alt="Logo" width="800" height="600">
+<img src="https://i.imgur.com/70fytVU.png" alt="Logo" width="800" >
 </br>
 </br>
 <img src="https://i.imgur.com/Z5N3A0v.png" alt="Logo" width="800" height="600">
 </br>
 </br>
-<img src="https://i.imgur.com/5mv9bAa.png" alt="Logo" width="800" height="500">
+<img src="https://i.imgur.com/5mv9bAa.png" alt="Logo" width="800">
 
 ## Upcoming Features
 
